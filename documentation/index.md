@@ -2,7 +2,7 @@
 
 [[repository]](https://github.com/jevangoh/xtqz1bv8mlviwo7a892eslt6x) [[documentation]](https://xtqz1bv8mlviwo7a892eslt6x.readthedocs.io/en/latest/)
 
-A depedency python class for object reactivity
+A readonly dependency python class for object reactivity
 
 <!-- do not remove or edit this section -->
 
